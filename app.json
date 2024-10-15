@@ -11,6 +11,12 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"],
+    "maps": {
+      "config": {
+        "apiKey": "AIzaSyA6fXXYXXX5GXpXK-tXXYXkZzZz"
+      }
+    },
     "ios": {
       "supportsTablet": true
     },
